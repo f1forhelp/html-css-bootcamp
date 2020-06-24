@@ -1,24 +1,28 @@
 body {
     font-size: 36px;
     text-align: center;
-    border: 10px solid green;
+    /* border: 10px solid green; */
 }
 
 /* order matters */
 /* LVHA */
 /* Link Visited Hover Active */
 a:link {
+    border: 5px solid green;
     color: green;
 }
 
 a:visited {
+    border: 5px solid blue;
     color: blue;
 }
 
 a:hover {
+    border: 5px solid red;
     color: red;
 }
 
 a:active {
+    border: 5px solid yellow;
     color: yellow;
 }

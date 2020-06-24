@@ -1,0 +1,31 @@
+input{
+    border: 2px solid black;
+}
+
+input:focus {
+    outline-width: 0px;
+    border: 10px solid orchid;
+}
+
+h3:focus {
+    border: 10px solid orchid;
+}
+
+
+a:link{
+    border: 10px solid black;
+    color: black;
+}
+a:visited{
+    border: 10px solid orange;
+    color: orange;
+}
+a:hover {
+    border: 10px solid yellow;
+    color: yellow;
+}
+
+a:active {
+    border: 10px solid red;
+    color: red;
+}
