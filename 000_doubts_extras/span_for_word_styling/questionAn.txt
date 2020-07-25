@@ -1,3 +1,0 @@
-inline: inline element are those which dosent occupy the whole line.
-block : which does occupy the whole line
-inline-block: same as inline but respects height and width(until and unless specified).
